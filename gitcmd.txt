@@ -1,0 +1,5 @@
+cd /path/to/repo  # Navigate to your repo folder (only needed if not already inside)
+
+git add .         # Stage all new and modified files
+git commit -m "Your commit message"  # Commit the changes
+git push origin main  # Push to GitHub (change 'main' if your branch is different)
